@@ -1,10 +1,14 @@
 sourcecode:
   type: git
-  location:
+  location: 
     origin: https://github.com/crackerjacques/FMF2USBMIDI.git
     commit_sha: c085049a4b2169f587122f5175ed73dbde38db93
     subdir: fmf2usb_midi
+short_description: Convert FMF files then send USB MIDI to host PC or MIDI Instruments.
 description: "@README.md"
 changelog: "@./docs/changelog.md"
+author:"http://x.com/there_is_q"
 screenshots:
   - screenshots/03fmf2midi_.png
+  - screenshots/02fmf2midi_.png
+  - screenshots/01fmf2midi_.png

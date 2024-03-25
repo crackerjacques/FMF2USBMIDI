@@ -14,20 +14,20 @@ The license for this FAP shall be WTFPL.
 
 Python and ufbt.
 
-```
+
 pip install ufbt
-```
+
 
 Basically, just go to the directory, set up ufbt, and type 
 
-```
+
 ufbt
 
 or
 
 ufbt launch
 
-```
+
 
 For more information, please see Flipper Zero's FAP build instructions.
 It is very detailed.
